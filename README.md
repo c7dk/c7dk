@@ -11,11 +11,13 @@ Hello there I am currently an eigth grader attending a middle school. I like to 
 - Video game enthusiast
 - Uses Blender to make models
 - Makes games with Unity's game engine and C#
+- I use Visual Studio Codes for most of my coding
 
 ## Ongoing Projects
 
 - Improving Python
 - Making a game called game01(doesn't have a name)
+- Improving on coding overall
 
 ## Goals
 
@@ -26,3 +28,12 @@ Hello there I am currently an eigth grader attending a middle school. I like to 
 ## Languages and Tools
 
 ![](<![](2022-03-06-14-02-49.png).png>)
+
+## Some Models I Have Made
+
+![](2022-03-07-22-51-00.png)
+![](2022-03-07-22-51-41.png)
+![](2022-03-07-22-52-37.png)
+![](2022-03-07-22-54-11.png)
+![](2022-03-07-22-54-27.png)
+![](2022-03-07-22-55-18.png)
