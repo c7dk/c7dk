@@ -1,13 +1,13 @@
 ## Hello! My name is Alexander Kang! 👋
 
 <br/>
-Hello there I am currently an eigth grader attending a middle school. I like to make games using <strong>Unity's game engine</strong> which uses <strong>C#</strong>, I also use <strong>blender</strong>.
+Hello there I am currently an Student attending a High School. I like to make games using <strong>Unity's game engine</strong> which uses <strong>C#</strong>, I also use <strong>blender</strong>. I am also trying to expand my knowledge by practicing the languages I use.
 
 ---
 
 ## About Me
 
-- 8th grade attending a middle school
+- 10th grade attending a High School
 - Video game enthusiast
 - Uses Blender to make models
 - Makes games with Unity's game engine and C#
@@ -16,7 +16,7 @@ Hello there I am currently an eigth grader attending a middle school. I like to 
 ## Ongoing Projects
 
 - Improving Python
-- Making a game called game01(doesn't have a name)
+- Making a game called Movement Shooter (Thinking of name)
 - Improving on coding overall
 
 ## Goals
