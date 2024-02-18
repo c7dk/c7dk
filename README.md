@@ -7,7 +7,7 @@ Hello there I am currently an Student attending a High School. I like to make ga
 
 ## About Me
 
-- 10th grade attending a High School
+- 10th grade Sophomore attending a High School
 - Video game enthusiast
 - Uses Blender to make models
 - Makes games with Unity's game engine and C#
