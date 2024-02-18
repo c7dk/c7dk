@@ -24,6 +24,7 @@ Hello there I am currently an Student attending a High School. I like to make ga
 - Get better at Python
 - Finish making a game
 - Get a title for the game
+- Make more commits
 
 ## Languages and Tools
 
